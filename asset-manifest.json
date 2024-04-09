@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/officebanao-assignment/static/css/main.737c89a0.css",
+    "main.js": "/officebanao-assignment/static/js/main.8bd5ad48.js",
+    "static/js/453.7ba5de15.chunk.js": "/officebanao-assignment/static/js/453.7ba5de15.chunk.js",
+    "index.html": "/officebanao-assignment/index.html",
+    "main.737c89a0.css.map": "/officebanao-assignment/static/css/main.737c89a0.css.map",
+    "main.8bd5ad48.js.map": "/officebanao-assignment/static/js/main.8bd5ad48.js.map",
+    "453.7ba5de15.chunk.js.map": "/officebanao-assignment/static/js/453.7ba5de15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737c89a0.css",
+    "static/js/main.8bd5ad48.js"
+  ]
+}
